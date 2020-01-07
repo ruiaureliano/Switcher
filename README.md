@@ -14,14 +14,23 @@ Just because its fun, and also because apple introduced the [NSSwitch](https://d
 Again just for fun, I used things like `@IBInspectable` and `@IBDesignable`, which is way cool 😎 because with that we can define a way to set `state`, `onTint`, `offTint` directly via **StoryBoard/Xib** and the most awesome thing is we can see a live preview instantly 🤓.
 
 ###  Switcher preview in light mode
+
 ![](images/1.png)
+
 ---
+
 ###  Switcher preview in dark mode
+
 ![](images/2.png)
+
 ---
+
 ###  Switcher preview in dark mode with some custom tint colors
+
 ![](images/3.png)
+
 ---
+
 ## Improvements?
 
 1. Switch state transitions could be animated
