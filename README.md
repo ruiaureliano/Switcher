@@ -1,4 +1,6 @@
-# Switcher for macOS [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.3-eb3d33.svg)](https://swift.org/blog/swift-5-3-released/) 
+# 🖥 Switcher for macOS 
+
+[![](https://img.shields.io/badge/license-MIT-f7bd09.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.3-f7bd09.svg)](https://swift.org/blog/swift-5-3-released/) 
 
 ![](images/header.png)
 
@@ -36,3 +38,10 @@ Again just for fun, I used things like `@IBInspectable` and `@IBDesignable`, whi
 
 1. Switch state transitions could be animated
 1. ???
+
+---
+
+I'm [Rui Aureliano](http://ruiaureliano.com), iOS and macOS Engineer at [Olá Brothers](https://theolabrothers.com). We make [Sip](https://sipapp.io) 🤓
+
+[Linkedin](https://www.linkedin.com/in/ruiaureliano) | [AngelList](https://angel.co/ruiaureliano) | [Twitter](https://twitter.com/ruiaureliano) | [Github](https://github.com/ruiaureliano) | [Medium](https://medium.com/@ruiaureliano) | [Stackoverflow](https://stackoverflow.com/users/881095/ruiaureliano)
+
